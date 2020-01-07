@@ -1,2 +1,2 @@
-# MEATORJS_COURSERA
-Browser-based Models with TensorFlow.js deeplearning.ai
+Introduction to Meteor.js Development
+University of London, Goldsmiths, University of London
